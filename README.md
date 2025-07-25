@@ -78,7 +78,7 @@ Configure a chave de API para o serviço de filmes (ex: TMDb).
 
 Execute o app em um dispositivo físico ou emulador.
 
-📄 Licença
+## 📄 Licença
 
 Este projeto está licenciado sob a MIT License.
 
